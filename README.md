@@ -18,3 +18,6 @@ A web document managment app built with [Dynamic Web TWAIN](https://www.dynamsof
 3. Visit `localhost:3000` in a web browser.
 
     ![web document management with Dynamic Web TWAIN and Node.js Express](https://www.dynamsoft.com/codepool/img/2015/02/express_jade.png)
+
+## Blog
+[Document Scanning and Uploading in Node.js with Express and Jade](https://www.dynamsoft.com/codepool/document-scanning-nodejs-express-jade.html)
